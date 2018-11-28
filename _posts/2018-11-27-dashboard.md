@@ -6,7 +6,7 @@ description: Explanation of the NestEgg Dashboard
 categories:
   - account
 resources:
-  - name: 🥚 Browse Eggs ►
+  - name: Next Video ► 🥚 Browse Eggs
     link: /
 type: Video
 set: getting-started
