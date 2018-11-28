@@ -46,7 +46,7 @@ layout: default
 		<h3>{{ set.title }} - Series</h3>
 		<p>{{ set.description }}</p>
 
-		{% include listings.html listings=series_posts numbered=true%}
+		{% include listings.html listings=series_posts numbered=false%}
 	</div>
 {% endif %}
 {% assign related_posts = site.related_posts %}
