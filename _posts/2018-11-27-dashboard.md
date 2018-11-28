@@ -16,7 +16,13 @@ set_order: 1
 
 NestEgg aims to provide you the portal to crowdfund sustainable infrastructrue and reduce your basic needs by owning the production. Your dashboard provides an overview of all the projects you own pieces of and your aggregated kWh generated from them.
 
-[Name of Link]({{ site.baseurl }}{% post_url 2018-11-27-browse-eggs %})
+
+<!-- [Jump to: Adjust your self-sufficiency per industry.]({{ site.baseurl }}{% post_url 2018-11-27-dashboard %}) -->
+[Jump to: Adjust your self-sufficiency per industry.](#egg-investments)
+
+
+
+
 
 ## Self Sufficiency
 
