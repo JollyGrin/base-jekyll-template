@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-11-27T23:23:13+00:00</updated><id>http://localhost:4000/</id><title type="html">NestEgg FAQ</title><subtitle>Answering FAQ about NestEgg.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Track kWh</title><link href="http://localhost:4000/manage/track-kwh/" rel="alternate" type="text/html" title="Track kWh" /><published>2018-11-27T00:00:00+00:00</published><updated>2018-11-27T00:00:00+00:00</updated><id>http://localhost:4000/manage/track-kwh</id><content type="html" xml:base="http://localhost:4000/manage/track-kwh/">&lt;p&gt;testing&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="faq.nestegg.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="faq.nestegg.eu/" rel="alternate" type="text/html" /><updated>2018-11-28T17:01:10+00:00</updated><id>faq.nestegg.eu/</id><title type="html">NestEgg FAQ</title><subtitle>Answering FAQ about NestEgg.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Track kWh</title><link href="faq.nestegg.eu/manage/track-kwh/" rel="alternate" type="text/html" title="Track kWh" /><published>2018-11-27T00:00:00+00:00</published><updated>2018-11-27T00:00:00+00:00</updated><id>faq.nestegg.eu/manage/track-kwh</id><content type="html" xml:base="faq.nestegg.eu/manage/track-kwh/">&lt;p&gt;testing&lt;/p&gt;
 
 &lt;h2 id=&quot;test&quot;&gt;Test&lt;/h2&gt;
 
@@ -21,7 +21,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
   &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;editable&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your template and start going, no strings attached!&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
   &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/about.html&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;btn btn-primary btn-xl page-scroll&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Find Out More&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
 &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">testing</summary></entry><entry><title type="html">Register an Account</title><link href="http://localhost:4000/account/register/" rel="alternate" type="text/html" title="Register an Account" /><published>2018-11-27T00:00:00+00:00</published><updated>2018-11-27T00:00:00+00:00</updated><id>http://localhost:4000/account/register</id><content type="html" xml:base="http://localhost:4000/account/register/">&lt;p&gt;testing&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">testing</summary></entry><entry><title type="html">Register an Account</title><link href="faq.nestegg.eu/account/register/" rel="alternate" type="text/html" title="Register an Account" /><published>2018-11-27T00:00:00+00:00</published><updated>2018-11-27T00:00:00+00:00</updated><id>faq.nestegg.eu/account/register</id><content type="html" xml:base="faq.nestegg.eu/account/register/">&lt;p&gt;testing&lt;/p&gt;
 
 &lt;h2 id=&quot;test&quot;&gt;Test&lt;/h2&gt;
 
@@ -44,7 +44,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
   &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;editable&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your template and start going, no strings attached!&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
   &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/about.html&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;btn btn-primary btn-xl page-scroll&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Find Out More&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
 &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">testing</summary></entry><entry><title type="html">Join a Crowdfund</title><link href="http://localhost:4000/eggs/invest/" rel="alternate" type="text/html" title="Join a Crowdfund" /><published>2018-11-27T00:00:00+00:00</published><updated>2018-11-27T00:00:00+00:00</updated><id>http://localhost:4000/eggs/invest</id><content type="html" xml:base="http://localhost:4000/eggs/invest/">&lt;p&gt;testing&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">testing</summary></entry><entry><title type="html">Join a Crowdfund</title><link href="faq.nestegg.eu/eggs/invest/" rel="alternate" type="text/html" title="Join a Crowdfund" /><published>2018-11-27T00:00:00+00:00</published><updated>2018-11-27T00:00:00+00:00</updated><id>faq.nestegg.eu/eggs/invest</id><content type="html" xml:base="faq.nestegg.eu/eggs/invest/">&lt;p&gt;testing&lt;/p&gt;
 
 &lt;h2 id=&quot;test&quot;&gt;Test&lt;/h2&gt;
 
@@ -67,7 +67,59 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
   &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;editable&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your template and start going, no strings attached!&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
   &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/about.html&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;btn btn-primary btn-xl page-scroll&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Find Out More&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
 &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">testing</summary></entry><entry><title type="html">Your Dashboard</title><link href="http://localhost:4000/account/dashboard/" rel="alternate" type="text/html" title="Your Dashboard" /><published>2018-11-27T00:00:00+00:00</published><updated>2018-11-27T00:00:00+00:00</updated><id>http://localhost:4000/account/dashboard</id><content type="html" xml:base="http://localhost:4000/account/dashboard/">&lt;p&gt;testing&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">testing</summary></entry><entry><title type="html">Your Dashboard</title><link href="faq.nestegg.eu/account/dashboard/" rel="alternate" type="text/html" title="Your Dashboard" /><published>2018-11-27T00:00:00+00:00</published><updated>2018-11-27T00:00:00+00:00</updated><id>faq.nestegg.eu/account/dashboard</id><content type="html" xml:base="faq.nestegg.eu/account/dashboard/">&lt;p&gt;NestEgg aims to provide you the portal to crowdfund sustainable infrastructrue and reduce your basic needs by owning the production. Your dashboard provides an overview of all the projects you own pieces of and your aggregated kWh generated from them.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/eggs/browse-eggs/&quot;&gt;Name of Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;self-sufficiency&quot;&gt;Self Sufficiency&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/media/dash-self.png&quot; alt=&quot;Self-Sufficiency&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The goal of NestEgg is to reduce your basic needs to 0 by owning enough production from a variety of sustainable infrastructure. Such as owning 10% in a solar panel across the country, to receive 10% of the kWh produced and directly reduce your energy bill.&lt;/p&gt;
+
+&lt;p&gt;Your self-sufficiency bar can be set to your custom energy levels and will track the kWh produced from all your projects. This helps you track, at a glance, your progress towards reaching 100% self-sufficency, which means your projects would produce enough energy to reduce your energy bill to zero.&lt;/p&gt;
+
+&lt;h2 id=&quot;your-eggs&quot;&gt;Your Eggs&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/media/dash-eggs.png&quot; alt=&quot;Your Eggs&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The total of how much you have invested in all your eggs is at the center-top of your dashboard.&lt;/p&gt;
+
+&lt;p&gt;NestEgg calls infrastructure projects, “Eggs”. Thus, you can see how many projects (eggs) you have in your portfolio.&lt;/p&gt;
+
+&lt;p&gt;Note: this box doesn’t track the size of each share. Thus, 1% or 99% ownership of an egg would still be displayed as “1 Egg”. To dividend box tracks how much you receive each month.&lt;/p&gt;
+
+&lt;h2 id=&quot;dividend&quot;&gt;Dividend&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/media/dash-dividend.png&quot; alt=&quot;Dividend&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When you own shares in a variety of energy projects, they will each produce a portion of kWh. The dividend box aggregates all the kWh coming from your eggs each month, so you can track the euro equivalent of what your total investment creates each month.&lt;/p&gt;
+
+&lt;h2 id=&quot;egg-investments&quot;&gt;Egg Investments&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/media/dash-investments.png&quot; alt=&quot;Industries&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here your projects are aggregated into their corresponding indsutry.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;⚡️ Energy projects provide kWh to reduce your energy bill&lt;/li&gt;
+  &lt;li&gt;🚘 Transport projects provide free mobility&lt;/li&gt;
+  &lt;li&gt;🖥 Leisure projects are usually expensive gadgets and equipment that allows individuals to have the same purchasing power as a company, providing access to enterprise tools at a literal fraction of the price.&lt;/li&gt;
+  &lt;li&gt;🏡 Real Estate projects provide streams of rent and/or free credits to rent the location for a night.&lt;/li&gt;
+  &lt;li&gt;🥕 Food Projects provide weekly shipments of produce produced on your plot of land&lt;/li&gt;
+  &lt;li&gt;If you have suggestions, &lt;a href=&quot;mailto: info@nestegg.eu&quot;&gt;we welcome you to email us feedback&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;⚠ Currently, NestEgg only supports sustainable energy projects. We plan to cover other other basic needs over time.&lt;/p&gt;
+
+&lt;p&gt;Within each industry, you view further information and settings&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Adjust your self-sufficiency needs&lt;/li&gt;
+  &lt;li&gt;Generation: the utility generated each moneth (example: kWh from your Energy projects)&lt;/li&gt;
+  &lt;li&gt;Cashed Out: how much utility you’ve sold for euro&lt;/li&gt;
+  &lt;li&gt;Bill Reduction: how much utility has reduced your energy bill&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">NestEgg aims to provide you the portal to crowdfund sustainable infrastructrue and reduce your basic needs by owning the production. Your dashboard provides an overview of all the projects you own pieces of and your aggregated kWh generated from them.</summary></entry><entry><title type="html">Browse Eggs</title><link href="faq.nestegg.eu/eggs/browse-eggs/" rel="alternate" type="text/html" title="Browse Eggs" /><published>2018-11-27T00:00:00+00:00</published><updated>2018-11-27T00:00:00+00:00</updated><id>faq.nestegg.eu/eggs/browse-eggs</id><content type="html" xml:base="faq.nestegg.eu/eggs/browse-eggs/">&lt;p&gt;testing&lt;/p&gt;
 
 &lt;h2 id=&quot;test&quot;&gt;Test&lt;/h2&gt;
 
@@ -90,30 +142,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
   &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;editable&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your template and start going, no strings attached!&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
   &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/about.html&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;btn btn-primary btn-xl page-scroll&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Find Out More&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
 &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">testing</summary></entry><entry><title type="html">Browse Eggs</title><link href="http://localhost:4000/eggs/browse-eggs/" rel="alternate" type="text/html" title="Browse Eggs" /><published>2018-11-27T00:00:00+00:00</published><updated>2018-11-27T00:00:00+00:00</updated><id>http://localhost:4000/eggs/browse-eggs</id><content type="html" xml:base="http://localhost:4000/eggs/browse-eggs/">&lt;p&gt;testing&lt;/p&gt;
-
-&lt;h2 id=&quot;test&quot;&gt;Test&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-
-&lt;h2 id=&quot;editables&quot;&gt;Editables&lt;/h2&gt;
-
-&lt;p&gt;Next, we need to do is to define areas in our HTML which non-developers can update. These are called &lt;a href=&quot;https://docs.cloudcannon.com/editing/editable-regions/&quot;&gt;Editable Regions&lt;/a&gt; and are set by adding a class of &lt;code class=&quot;highlighter-rouge&quot;&gt;editable&lt;/code&gt; to HTML elements.&lt;/p&gt;
-
-&lt;p&gt;Open &lt;code class=&quot;highlighter-rouge&quot;&gt;index.html&lt;/code&gt; in CloudCannon and add a class of &lt;code class=&quot;highlighter-rouge&quot;&gt;editable&lt;/code&gt; to the &lt;code class=&quot;highlighter-rouge&quot;&gt;h1&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;p&lt;/code&gt; inside &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;div class=&quot;header-content-inner&quot;&amp;gt;&lt;/code&gt; so it becomes the following:&lt;/p&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;header-content-inner&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;h1&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;editable&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Your Favorite Source of Free Bootstrap Themes&lt;span class=&quot;nt&quot;&gt;&amp;lt;/h1&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;hr&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;editable&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your template and start going, no strings attached!&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/about.html&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;btn btn-primary btn-xl page-scroll&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Find Out More&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">testing</summary></entry><entry><title type="html">Self-sufficiency</title><link href="http://localhost:4000/manage/self/" rel="alternate" type="text/html" title="Self-sufficiency" /><published>2018-11-27T00:00:00+00:00</published><updated>2018-11-27T00:00:00+00:00</updated><id>http://localhost:4000/manage/self</id><content type="html" xml:base="http://localhost:4000/manage/self/">&lt;p&gt;Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server.&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">testing</summary></entry><entry><title type="html">Self-sufficiency</title><link href="faq.nestegg.eu/manage/self/" rel="alternate" type="text/html" title="Self-sufficiency" /><published>2018-11-27T00:00:00+00:00</published><updated>2018-11-27T00:00:00+00:00</updated><id>faq.nestegg.eu/manage/self</id><content type="html" xml:base="faq.nestegg.eu/manage/self/">&lt;p&gt;Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server.&lt;/p&gt;
 
 &lt;p&gt;If you already have a full Ruby development environment with all headers and RubyGems installed, you can create a new Jekyll site by doing the following:&lt;/p&gt;
 
@@ -209,7 +238,7 @@ title: Blogging Like a Hacker
   &lt;li&gt;Place pages inside folders and subfolders named whatever you want.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Both methods work fine (and can be used in conjunction with each other), with the only real difference being the resulting URLs. By default, pages retain the same folder structure in &lt;code class=&quot;highlighter-rouge&quot;&gt;_site&lt;/code&gt; as they do in the source directory.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server.</summary></entry><entry><title type="html">Activity Page</title><link href="http://localhost:4000/account/activity/" rel="alternate" type="text/html" title="Activity Page" /><published>2018-11-26T00:00:00+00:00</published><updated>2018-11-26T00:00:00+00:00</updated><id>http://localhost:4000/account/activity</id><content type="html" xml:base="http://localhost:4000/account/activity/">&lt;p&gt;testing&lt;/p&gt;
+&lt;p&gt;Both methods work fine (and can be used in conjunction with each other), with the only real difference being the resulting URLs. By default, pages retain the same folder structure in &lt;code class=&quot;highlighter-rouge&quot;&gt;_site&lt;/code&gt; as they do in the source directory.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server.</summary></entry><entry><title type="html">Activity Page</title><link href="faq.nestegg.eu/account/activity/" rel="alternate" type="text/html" title="Activity Page" /><published>2018-11-26T00:00:00+00:00</published><updated>2018-11-26T00:00:00+00:00</updated><id>faq.nestegg.eu/account/activity</id><content type="html" xml:base="faq.nestegg.eu/account/activity/">&lt;p&gt;testing&lt;/p&gt;
 
 &lt;h2 id=&quot;test&quot;&gt;Test&lt;/h2&gt;
 
