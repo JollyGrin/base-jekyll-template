@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>faq.nestegg.eu/account/activity/</loc>
-<lastmod>2018-11-26T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>faq.nestegg.eu/manage/self/</loc>
-<lastmod>2018-11-27T00:00:00+00:00</lastmod>
-</url>
-<url>
 <loc>faq.nestegg.eu/eggs/browse-eggs/</loc>
 <lastmod>2018-11-27T00:00:00+00:00</lastmod>
 </url>
@@ -38,12 +30,12 @@
 <loc>faq.nestegg.eu/videos/</loc>
 </url>
 <url>
+<loc>faq.nestegg.eu/category/eggs/</loc>
+</url>
+<url>
 <loc>faq.nestegg.eu/category/account/</loc>
 </url>
 <url>
 <loc>faq.nestegg.eu/category/manage/</loc>
-</url>
-<url>
-<loc>faq.nestegg.eu/category/eggs/</loc>
 </url>
 </urlset>
