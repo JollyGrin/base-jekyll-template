@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>faq.nestegg.eu/eggs/browse-eggs/</loc>
-<lastmod>2018-11-27T00:00:00+00:00</lastmod>
+<loc>faq.nestegg.eu/account/register/</loc>
+<lastmod>2018-11-19T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>faq.nestegg.eu/account/dashboard/</loc>
-<lastmod>2018-11-27T00:00:00+00:00</lastmod>
+<lastmod>2018-11-20T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>faq.nestegg.eu/eggs/browse-eggs/</loc>
+<lastmod>2018-11-21T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>faq.nestegg.eu/eggs/join-crowdfund/</loc>
-<lastmod>2018-11-27T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>faq.nestegg.eu/account/register/</loc>
-<lastmod>2018-11-27T00:00:00+00:00</lastmod>
+<lastmod>2018-11-22T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>faq.nestegg.eu/manage/track-kwh/</loc>
-<lastmod>2018-11-27T00:00:00+00:00</lastmod>
+<lastmod>2018-11-24T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>faq.nestegg.eu/faq/</loc>
@@ -30,10 +30,10 @@
 <loc>faq.nestegg.eu/videos/</loc>
 </url>
 <url>
-<loc>faq.nestegg.eu/category/eggs/</loc>
+<loc>faq.nestegg.eu/category/account/</loc>
 </url>
 <url>
-<loc>faq.nestegg.eu/category/account/</loc>
+<loc>faq.nestegg.eu/category/eggs/</loc>
 </url>
 <url>
 <loc>faq.nestegg.eu/category/manage/</loc>

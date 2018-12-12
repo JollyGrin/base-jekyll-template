@@ -1,5 +1,5 @@
 ---
-date: 2018-11-27
+date: 2018-11-21
 title: Browse Eggs
 video_id: ZswPydoH31s
 description: Browse available crowdfunds for sustainable infrastructure.

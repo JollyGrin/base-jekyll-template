@@ -1,5 +1,5 @@
 ---
-date: 2018-11-27
+date: 2018-11-20
 title: Your Dashboard
 video_id: MMrv78G-tFU
 description: Explanation of the NestEgg Dashboard

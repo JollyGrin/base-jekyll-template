@@ -1,6 +1,8 @@
 # - name: FAQ
 #   link: /
-- name: ⏎ Return to your Dashboard
-  link: https://my.nestegg.eu
+- name: 🤔 FAQ
+  link: /
 - name: 📝 Submit Feedback
-  link: #
+  link: https://airtable.com/shrte5k3ZOqrYUd8o
+- name: 💬 View Feedback Submitted
+  link: https://airtable.com/shraZRsryroEj3o5t

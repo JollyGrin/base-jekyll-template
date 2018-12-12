@@ -1,5 +1,5 @@
 ---
-date: 2018-11-27
+date: 2018-11-22
 title: Join a Crowdfund
 video_id: tiOgrWiiwe4
 description: Join others to deploy infrastructure and own the means of production.
